@@ -10,7 +10,7 @@
 
 [预测市场平台.pdf](https://github.com/songrongqi/product-management/files/13797257/default.pdf)
 
-2.产品原型（网页版）
+2.产品原型（网页版 ）
 
 https://modao.cc/app/d1xeYbhrejkbkzkSJvVI
 
